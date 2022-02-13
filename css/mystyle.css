@@ -14,9 +14,11 @@
 }
 
 
-body{
-    overflow: hidden;
-    min-height: 1100vh;
+html{
+    overflow-x: hidden;
+}
+body {
+    overflow:hidden;
 }
 
 ul {

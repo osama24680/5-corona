@@ -16,6 +16,9 @@
 body {
   height: 1100vh;
 }
+body{
+    overflow: hidden;
+}
 
 ul {
   list-style: none;

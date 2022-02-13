@@ -16,6 +16,7 @@
 
 body{
     overflow: hidden;
+    min-height: 1100vh;
 }
 
 ul {
